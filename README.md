@@ -70,3 +70,20 @@
 - p049-sumar-consecutivos.py
 - p050-conteo-numeros.py
 - p051-adivina-numero.py
+
+## Actividad 7: Ejecución repetitiva - Parte 2
+- p052-tabla-conversion.py
+- p053-conjetura-collatz.py
+- p054-tabla-multiplicar-while-v1.py
+- p055-tabla-multiplicar-while-v2.py
+- p056-contador-vocales.py
+- p057-interes-simple.py
+
+### Tarea 3: Ejecución repetitiva - while
+- p58-impares-ascendente.py
+- p59-pares-descendente.py
+- p60-promedio-suma.py
+- p61-suma-200.py
+- p62-conversion-temperaturas.py
+- p63-numero-mayor.py
+- p64-verificar-palindromo.py

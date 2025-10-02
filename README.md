@@ -80,10 +80,10 @@
 - p057-interes-simple.py
 
 ### Tarea 3: Ejecución repetitiva - while
-- p58-impares-ascendente.py
-- p59-pares-descendente.py
-- p60-promedio-suma.py
-- p61-suma-200.py
-- p62-conversion-temperaturas.py
-- p63-numero-mayor.py
-- p64-verificar-palindromo.py
+- p058-impares-ascendente.py
+- p059-pares-descendente.py
+- p060-promedio-suma.py
+- p061-suma-200.py
+- p062-conversion-temperaturas.py
+- p063-numero-mayor.py
+- p064-verificar-palindromo.py

@@ -90,3 +90,6 @@
 
 ## Actividad 8: Problema de repaso - Parcial 1
 - po65-repaso-parcial1.py
+
+# 09 - Primer examen parcial
+- p066-primer-parcial.py

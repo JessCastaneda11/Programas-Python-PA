@@ -194,3 +194,12 @@
 - p139-factorial.py
 - p140-promedio-letra.py
 - p141-suma-rango.py
+
+## Actividad 17: Funciones - Parte 2
+- p142-suma-lista.py
+- p143-lista-pares.py
+- p144-mayor-menor.py
+- p145-mayores-promedio.py
+- p146-pares-impares.py
+- p147-aleatorios.py
+- p148-nombres.py
